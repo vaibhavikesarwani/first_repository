@@ -1,2 +1,2 @@
 # first_repository
-xyz
+A Successfully Initialized first repository.
